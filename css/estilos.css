@@ -1,0 +1,7 @@
+body{
+    display: flexbox;
+    background-color: brown;
+}
+div{
+    background-color: orange;
+}
